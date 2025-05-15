@@ -1,5 +1,5 @@
 name: bigips
 depends:
-- name: big-ip-atc-ready
+- name: vulpoc
   git: https://github.com/Securityorgpoc/test-poc
   branch:  master
